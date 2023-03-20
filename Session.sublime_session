@@ -1,0 +1,278 @@
+{
+	"file_history":
+	[
+	],
+	"folder_history":
+	[
+		"/Volumes/PyCharm CE",
+		"/Users/apple/Desktop/ECS150/file_system"
+	],
+	"last_version": 4143,
+	"last_window_id": 51,
+	"log_indexing": false,
+	"next_update_check": 1679328110,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 480.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			320.0,
+			-628.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sta",
+						"state"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"st",
+						"start"
+					],
+					[
+						"f",
+						"f64"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"s",
+						"self"
+					],
+					[
+						"i",
+						"i32"
+					],
+					[
+						"T",
+						"true"
+					],
+					[
+						"O",
+						"Operator"
+					],
+					[
+						"tr",
+						"true"
+					],
+					[
+						"op",
+						"Operator"
+					],
+					[
+						"to",
+						"Token"
+					],
+					[
+						"Ope",
+						"Operand"
+					],
+					[
+						"p",
+						"push"
+					],
+					[
+						"Op",
+						"Operator"
+					],
+					[
+						"stc",
+						"stack"
+					],
+					[
+						"S",
+						"Sub"
+					],
+					[
+						"ma",
+						"match\tmatch … { … }"
+					],
+					[
+						"toke",
+						"Token"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/apple/hello/hello.go",
+				"/Users/apple/Downloads/½ð÷ëÆñÊÇ³ØÖÐÎï.txt",
+				"/Users/apple/Desktop/ECS150/file_system/p4/libfs/disk.c",
+				"/Users/apple/Desktop/ECS150/file_system/p4/libfs/Makefile",
+				"/Users/apple/Desktop/ECS150/file_system/p4/Makefile",
+				"/Users/apple/Downloads/Operating-Systems-master/Shell/AUTHORS",
+				"/Users/apple/Desktop/sshell_tester.c",
+				"/Users/apple/Desktop/hw5-handout/smash/smash.go",
+				"/Users/apple/Desktop/hw5-handout/bug1/bug1.go",
+				"/Users/apple/Desktop/hw5-handout/bug2/bug2.go",
+				"/Users/apple/Desktop/hw5-handout/nfa/nfa.go",
+				"/Users/apple/Desktop/hw4-handout/set/set.plt",
+				"/Users/apple/Desktop/hw4-handout/query/query.plt",
+				"/Users/apple/Downloads/hw3-handout/mmm/mmm_test.lisp",
+				"/Users/apple/Desktop/hw2-handout/expr/parse.go",
+				"/Users/apple/Desktop/hw2-handout/expr/eval.go",
+				"/Users/apple/Desktop/hw2-handout/expr/print.go",
+				"/Users/apple/Desktop/hw2-handout/expr/ast.go",
+				"/Users/apple/Desktop/hw2-handout/depth/depth.go",
+				"/Users/apple/Desktop/hw2-handout/depth/depth_test.go",
+				"/Users/apple/Desktop/hw2-handout/simplify/simplify_test.go",
+				"/Users/apple/Desktop/hw2-handout/simplify/simplify.go",
+				"/Users/apple/Desktop/hw2-handout/nfa/nfa_test.go",
+				"/Users/apple/Desktop/hw2-handout/nfa/nfa.go",
+				"/Users/apple/Desktop/hw2-handout/min/min.go",
+				"/Users/apple/Desktop/hw2-handout/min/min_test.go",
+				"/Users/apple/Desktop/hw2-handout/triangle/triangle_test.go",
+				"/Users/apple/Desktop/hw2-handout/triangle/triangle.go",
+				"/Users/apple/Desktop/Program1Source/TestCase1.json",
+				"/Users/apple/Desktop/Program1Source/SampleExample.json",
+				"/Users/apple/Desktop/ECS 40/untitled.cpp",
+				"/Users/apple/Desktop/ECS 40/untitled",
+				"/Users/apple/Desktop/apple.rs",
+				"/Users/apple/Desktop/ECS 40/1/src/lib.rs",
+				"/Users/apple/Desktop/ECS 40/1/src/test.rs"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
